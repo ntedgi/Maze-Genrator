@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Maze_generation_algorithm
 
 
 ## Settings:
- –1 Number Of Threads In The Thread-Pool :1-Max
+ –1 Number Of Threads In The Thread-Pool :default 10 
  
  –2 Maze Generator:  [Depth-first search](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Depth-first_search) , Random
  
