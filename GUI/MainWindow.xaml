@@ -1,0 +1,278 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MazeGenerator"
+        Width="790"
+        Height="450"
+        KeyDown="Window_KeyDown">
+
+
+    <DockPanel>
+
+        <Menu DockPanel.Dock="Top">
+            <MenuItem FlowDirection="RightToLeft" Header="_File">
+                <MenuItem Click="button_Click7"
+                          FlowDirection="LeftToRight"
+                          Header="_Open Maze">
+                    <MenuItem.Icon>
+                        <Image FlowDirection="LeftToRight" Source="Images\open.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator />
+                <MenuItem Click="Exit_Click"
+                          FlowDirection="LeftToRight"
+                          Header="_Exit">
+                    <MenuItem.Icon>
+                        <Image FlowDirection="LeftToRight" Source="Images\exit.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem FlowDirection="RightToLeft" Header="_Tools">
+                <MenuItem Click="Setting_Click"
+                          FlowDirection="LeftToRight"
+                          Header="_Setting">
+                    <MenuItem.Icon>
+                        <Image FlowDirection="LeftToRight" Source="Images\set.jpg" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+
+
+
+        </Menu>
+
+        <Grid Margin="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="254*" />
+                <RowDefinition Height="145*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="231*" />
+                <ColumnDefinition Width="118*" />
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.RowSpan="2"
+                    Grid.ColumnSpan="2"
+                    Margin="0,0,-45,0"
+                    Background="GhostWhite"
+                    BorderBrush="Silver"
+                    BorderThickness="2"
+                    RenderTransformOrigin="0.5,0.5">
+                <Border Width="245"
+                        Height="83"
+                        Margin="8,177,0,0"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        Background=" GhostWhite"
+                        BorderBrush="Silver"
+                        BorderThickness="1">
+
+                    <ComboBox x:Name="M_list" Margin="9,9,104,51">
+                        <ComboBoxItem IsSelected="True">Maze List</ComboBoxItem>
+                    </ComboBox>
+
+                </Border>
+            </Border>
+            <ListView Name="lvUsers"
+                      Grid.ColumnSpan="2"
+                      Width="243"
+                      Height="133"
+                      Margin="10,10,-33,0"
+                      HorizontalAlignment="Left"
+                      VerticalAlignment="Top"
+                      SelectionChanged="lvUsers_SelectionChanged">
+
+                <ListView.View>
+
+                    <GridView>
+                        <GridViewColumn Width="125"
+                                        DisplayMemberBinding="{Binding Name}"
+                                        Header="Parameters" />
+                        <GridViewColumn Width="65" Header="Value">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBox Width="50"
+                                             Height="20"
+                                             Cursor="Hand"
+                                             Foreground="Blue"
+                                             Text="{Binding optines.Text}" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+            <Button Width="198"
+                    Margin="12,152,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Click="Button_Click"
+                    Content="Generate"
+                    RenderTransformOrigin="0.827,0.4"
+                    ToolTip="Generate Maze" />
+            <Button Grid.ColumnSpan="2"
+                    Margin="165,190,-20,0"
+                    VerticalAlignment="Top"
+                    Click="button_Click3"
+                    Content="Display"
+                    ToolTip="Display Maze" />
+            <Button Grid.ColumnSpan="2"
+                    Margin="165,224,-20,0"
+                    VerticalAlignment="Top"
+                    Click="button_Click1"
+                    Content="Solve"
+                    ToolTip="Display Solotion" />
+
+            <Button Grid.ColumnSpan="2"
+                    Margin="215,148,-33,0"
+                    VerticalAlignment="Top"
+                    Click="Button_Click2"
+                    Cursor="Hand"
+                    RenderTransformOrigin="0.517,1.5"
+                    ToolTip="Sort Maze Parameters alphabetically">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="Images\Sorter.png" Stretch="None" />
+                    </ControlTemplate>
+                </Button.Template>
+
+            </Button>
+
+
+
+            <Button Margin="12,214,169,0"
+                    VerticalAlignment="Top"
+                    Click="Button_Click4"
+                    Cursor="Hand"
+                    RenderTransformOrigin="0.517,1.5"
+                    ToolTip="Delete Maze">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Width="44"
+                               Height="45"
+                               Source="Images\remove.png"
+                               Stretch="None" />
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+
+            <Button Margin="56,214,125,0"
+                    VerticalAlignment="Top"
+                    Click="Button_Click5"
+                    Cursor="Hand"
+                    RenderTransformOrigin="0.517,1.5">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Width="44"
+                               Height="45"
+                               Source="Images/save_button.gif"
+                               Stretch="None"
+                               ToolTip="Save Maze" />
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Border Grid.Row="1"
+                    Grid.ColumnSpan="2"
+                    Width="243"
+                    Height="72"
+                    Margin="10,25,-28,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    BorderBrush="Silver"
+                    BorderThickness="2">
+
+                <Grid Name="myGrid" Margin="0,34,-51,-353">
+                    <TextBox x:Name="MessageBox"
+                             Width="257"
+                             Height="81"
+                             Margin="-9,-37,0,0"
+                             HorizontalAlignment="Left"
+                             VerticalAlignment="Top"
+                             Background="Black"
+                             FontWeight="Bold"
+                             Foreground="Yellow"
+                             Text=""
+                             TextWrapping="Wrap" />
+                    <Button Margin="-3,45,264,304"
+                            Click="Button_Click6"
+                            RenderTransformOrigin="0.517,1.5"
+                            ToolTip="Help">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform ScaleX="-1" />
+                                <SkewTransform />
+                                <RotateTransform />
+                                <TranslateTransform />
+                            </TransformGroup>
+                        </Button.RenderTransform>
+                        <Button.Template>
+                            <ControlTemplate>
+                                <Image Margin="0,0,-21,-1"
+                                       Source="Images\help_1.png"
+                                       Stretch="None" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                </Grid>
+
+            </Border>
+            <Button Grid.Row="1"
+                    Margin="100,105,82,0"
+                    VerticalAlignment="Top"
+                    Click="Button_Click9"
+                    Cursor="Hand"
+                    RenderTransformOrigin="0.517,1.5"
+                    ToolTip="Clear Message Box">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Width="44"
+                               Height="45"
+                               Source="Images/clear2.png"
+                               Stretch="None" />
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+
+        <Grid Margin="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="146" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Border Grid.RowSpan="2"
+                    Margin="47,0,0,0"
+                    Background="White"
+                    BorderBrush="Silver"
+                    BorderThickness="2"
+                    RenderTransformOrigin="0.5,0.5">
+
+
+
+                <ScrollViewer Name="QpRulesScrollViewer"
+                              CanContentScroll="True"
+                              VerticalScrollBarVisibility="Auto">
+
+
+                    <Canvas Margin="17,30,-17,-30">
+                        <Canvas Name="cnvs_main"
+                                Margin="10,0,0,0"
+                                RenderTransformOrigin="0.5,0.5" />
+                    </Canvas>
+                </ScrollViewer>
+
+
+            </Border>
+
+
+        </Grid>
+
+
+    </DockPanel>
+
+
+
+</Window>

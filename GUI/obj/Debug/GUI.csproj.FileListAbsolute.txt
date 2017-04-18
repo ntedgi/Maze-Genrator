@@ -1,0 +1,125 @@
+C:\Users\naor\Desktop\project3_b\MVP\GUI\bin\Debug\GUI.exe.config
+C:\Users\naor\Desktop\project3_b\MVP\GUI\bin\Debug\GUI.exe
+C:\Users\naor\Desktop\project3_b\MVP\GUI\bin\Debug\GUI.pdb
+C:\Users\naor\Desktop\project3_b\MVP\GUI\bin\Debug\MVP.exe
+C:\Users\naor\Desktop\project3_b\MVP\GUI\bin\Debug\ProjectSrc.dll
+C:\Users\naor\Desktop\project3_b\MVP\GUI\bin\Debug\MVP.pdb
+C:\Users\naor\Desktop\project3_b\MVP\GUI\bin\Debug\ProjectSrc.pdb
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\MainWindow.baml
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\ItemPoint.baml
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\MazeBoard.baml
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\MazeCell.baml
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\SolCell.baml
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\Goal.baml
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\SettingWindow.baml
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Styles.baml
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\App.baml
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\ItemPoint.g.cs
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\MazeBoard.g.cs
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\MazeCell.g.cs
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\SolCell.g.cs
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\Maze\Goal.g.cs
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\SettingWindow.g.cs
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\App.g.cs
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\GUI.g.resources
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\GUI.exe
+C:\Users\naor\Desktop\project3_b\MVP\GUI\obj\Debug\GUI.pdb
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\bin\Debug\GUI.exe.config
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\GUI.exe
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\GUI.pdb
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\bin\Debug\GUI.exe
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\bin\Debug\GUI.pdb
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\bin\Debug\MVP.exe
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\bin\Debug\MVP.pdb
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\bin\Debug\ProjectSrc.pdb
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\MainWindow.baml
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\ItemPoint.baml
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\MazeBoard.baml
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\MazeCell.baml
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\SolCell.baml
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\Goal.baml
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\SettingWindow.baml
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Styles.baml
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\App.baml
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\ItemPoint.g.cs
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\MazeBoard.g.cs
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\MazeCell.g.cs
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\SolCell.g.cs
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\Maze\Goal.g.cs
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\SettingWindow.g.cs
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\App.g.cs
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\GUI.g.resources
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\yntnm\Study\ATP\Assighnment_4\project3_b\project3_b\MVP\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\bin\Debug\GUI.exe.config
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\bin\Debug\GUI.exe
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\bin\Debug\GUI.pdb
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\bin\Debug\MVP.exe
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\bin\Debug\MVP.pdb
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\bin\Debug\ProjectSrc.pdb
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\MainWindow.baml
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\ItemPoint.baml
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\MazeBoard.baml
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\MazeCell.baml
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\SolCell.baml
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\Goal.baml
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\SettingWindow.baml
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Styles.baml
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\App.baml
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\ItemPoint.g.cs
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\MazeBoard.g.cs
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\MazeCell.g.cs
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\SolCell.g.cs
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\Maze\Goal.g.cs
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\SettingWindow.g.cs
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\App.g.cs
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\GUI.g.resources
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\GUI.exe
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\GUI\obj\Debug\GUI.pdb
+C:\Users\naor\Desktop\Maze\MVP\GUI\bin\Debug\GUI.exe.config
+C:\Users\naor\Desktop\Maze\MVP\GUI\obj\Debug\GUI.exe
+C:\Users\naor\Desktop\Maze\MVP\GUI\obj\Debug\GUI.pdb
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\bin\Debug\GUI.exe.config
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\bin\Debug\GUI.exe
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\bin\Debug\GUI.pdb
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\bin\Debug\MVP.exe
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\bin\Debug\MVP.pdb
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\bin\Debug\MVP.exe.config
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\bin\Debug\ProjectSrc.pdb
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\MainWindow.baml
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\ItemPoint.baml
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\MazeBoard.baml
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\MazeCell.baml
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\SolCell.baml
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\Goal.baml
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\SettingWindow.baml
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Styles.baml
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\App.baml
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\MainWindow.g.cs
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\ItemPoint.g.cs
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\MazeBoard.g.cs
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\MazeCell.g.cs
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\SolCell.g.cs
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\Maze\Goal.g.cs
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\SettingWindow.g.cs
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\App.g.cs
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\GUI_MarkupCompile.cache
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\GUI.g.resources
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\GUI.exe
+E:\Study Folder Sem 6\תקופת מבחנים\StudySem5\Maze\MVP\GUI\obj\Debug\GUI.pdb

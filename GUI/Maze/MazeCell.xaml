@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="GUI.Maze.MazeCell"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             Name="userControl"
+             Width="20"
+             Height="{Binding ElementName=userControl,
+                              Path=Width}"
+             mc:Ignorable="d">
+    <Canvas>
+        <Line Name="lineUpWall"
+              Style="{StaticResource MazeCellWall}"
+              X1="0"
+              X2="{Binding ElementName=userControl,
+                           Path=Width}"
+              Y1="0"
+              Y2="0" />
+        <Line Name="lineLeftWall"
+              Style="{StaticResource MazeCellWall}"
+              X1="0"
+              X2="0"
+              Y1="0"
+              Y2="{Binding ElementName=userControl,
+                           Path=Width}" />
+        <Line Name="lineDownWall"
+              Style="{StaticResource MazeCellWall}"
+              X1="0"
+              X2="{Binding ElementName=userControl,
+                           Path=Width}"
+              Y1="{Binding ElementName=userControl,
+                           Path=Width}"
+              Y2="{Binding ElementName=userControl,
+                           Path=Width}" />
+        <Line Name="lineRightWall"
+              Style="{StaticResource MazeCellWall}"
+              X1="{Binding ElementName=userControl,
+                           Path=Width}"
+              X2="{Binding ElementName=userControl,
+                           Path=Width}"
+              Y1="0"
+              Y2="{Binding ElementName=userControl,
+                           Path=Width}" />
+        <Border Name="back"
+                Width="{Binding ElementName=userControl,
+                                Path=Width}"
+                Height="{Binding ElementName=userControl,
+                                 Path=Width}"
+                Background="Brown"
+                BorderBrush="Black"
+                BorderThickness="1" />
+
+
+    </Canvas>
+
+</UserControl>

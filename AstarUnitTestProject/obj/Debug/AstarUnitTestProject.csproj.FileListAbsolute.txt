@@ -1,0 +1,20 @@
+C:\Users\naor\Desktop\New folder\MVP\AstarUnitTestProject\bin\Debug\AstarUnitTestProject.dll
+C:\Users\naor\Desktop\New folder\MVP\AstarUnitTestProject\bin\Debug\AstarUnitTestProject.pdb
+C:\Users\naor\Desktop\New folder\MVP\AstarUnitTestProject\bin\Debug\ProjectSrc.dll
+C:\Users\naor\Desktop\New folder\MVP\AstarUnitTestProject\bin\Debug\ProjectSrc.pdb
+C:\Users\naor\Desktop\New folder\MVP\AstarUnitTestProject\obj\Debug\AstarUnitTestProject.dll
+C:\Users\naor\Desktop\New folder\MVP\AstarUnitTestProject\obj\Debug\AstarUnitTestProject.pdb
+C:\Users\naor\Desktop\New folder\MVP\AstarUnitTestProject\obj\Debug\AstarUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\naor\Desktop\project3_b\MVP\AstarUnitTestProject\bin\Debug\AstarUnitTestProject.dll
+C:\Users\naor\Desktop\project3_b\MVP\AstarUnitTestProject\bin\Debug\AstarUnitTestProject.pdb
+C:\Users\naor\Desktop\project3_b\MVP\AstarUnitTestProject\bin\Debug\ProjectSrc.dll
+C:\Users\naor\Desktop\project3_b\MVP\AstarUnitTestProject\bin\Debug\ProjectSrc.pdb
+C:\Users\naor\Desktop\project3_b\MVP\AstarUnitTestProject\obj\Debug\AstarUnitTestProject.dll
+C:\Users\naor\Desktop\project3_b\MVP\AstarUnitTestProject\obj\Debug\AstarUnitTestProject.pdb
+C:\Users\naor\Desktop\project3_b\MVP\AstarUnitTestProject\obj\Debug\AstarUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\AstarUnitTestProject\bin\Debug\AstarUnitTestProject.dll
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\AstarUnitTestProject\bin\Debug\AstarUnitTestProject.pdb
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\AstarUnitTestProject\bin\Debug\ProjectSrc.pdb
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\AstarUnitTestProject\obj\Debug\AstarUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\AstarUnitTestProject\obj\Debug\AstarUnitTestProject.dll
+C:\Users\naor\Desktop\SearchEngine\project3_b\MVP\AstarUnitTestProject\obj\Debug\AstarUnitTestProject.pdb

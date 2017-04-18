@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApplication4.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:ATPproject.Model.Search.Fakes.StubIHeuristic">
+            <summary>Stub type of ATPproject.Model.Search.IHeuristic</summary>
+        </member>
+        <member name="M:ATPproject.Model.Search.Fakes.StubIHeuristic.#ctor">
+            <summary>Initializes a new instance of type StubIHeuristic</summary>
+        </member>
+        <member name="M:ATPproject.Model.Search.Fakes.StubIHeuristic.ca4::ATPproject#Model#Search#IHeuristic#getHeuristic(Model.Search.AState,Model.Search.AState)">
+            <summary>Sets the stub of IHeuristic.getHeuristic(AState Current, AState Last)</summary>
+        </member>
+        <member name="F:ATPproject.Model.Search.Fakes.StubIHeuristic.GetHeuristicAStateAState">
+            <summary>Sets the stub of IHeuristic.getHeuristic(AState Current, AState Last)</summary>
+        </member>
+        <member name="T:DataStructures.Fakes.ShimBinaryHeap`1">
+            <summary>Shim type of DataStructures.BinaryHeap`1</summary>
+        </member>
+        <member name="M:DataStructures.Fakes.ShimBinaryHeap`1.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DataStructures.Fakes.ShimBinaryHeap`1.#ctor(DataStructures.BinaryHeap{`0})">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:DataStructures.Fakes.ShimBinaryHeap`1.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DataStructures.Fakes.ShimBinaryHeap`1.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DataStructures.Fakes.ShimBinaryHeap`1.Bind(System.Collections.IEnumerable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:DataStructures.Fakes.ShimBinaryHeap`1.Bind(System.Collections.Generic.ICollection{`0})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:DataStructures.Fakes.ShimBinaryHeap`1.Bind(System.Collections.Generic.IEnumerable{`0})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AddT0">
+            <summary>Sets the shim of BinaryHeap`1.Add(!0 item)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.CapacityGet">
+            <summary>Sets the shim of BinaryHeap`1.get_Capacity()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.CapacitySetInt32">
+            <summary>Sets the shim of BinaryHeap`1.set_Capacity(Int32 value)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.Child1Int32">
+            <summary>Sets the shim of BinaryHeap`1.Child1(Int32 index)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.Child2Int32">
+            <summary>Sets the shim of BinaryHeap`1.Child2(Int32 index)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.Clear">
+            <summary>Sets the shim of BinaryHeap`1.Clear()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.Constructor">
+            <summary>Sets the shim of BinaryHeap`1.BinaryHeap`1()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.ConstructorT0ArrayInt32">
+            <summary>Sets the shim of BinaryHeap`1.BinaryHeap`1(!0[] data, Int32 count)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.ContainsT0">
+            <summary>Sets the shim of BinaryHeap`1.Contains(!0 item)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.Copy">
+            <summary>Sets the shim of BinaryHeap`1.Copy()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.CopyToT0ArrayInt32">
+            <summary>Sets the shim of BinaryHeap`1.CopyTo(!0[] array, Int32 arrayIndex)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.CountGet">
+            <summary>Sets the shim of BinaryHeap`1.get_Count()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.DownHeap">
+            <summary>Sets the shim of BinaryHeap`1.DownHeap()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.EnsureSort">
+            <summary>Sets the shim of BinaryHeap`1.EnsureSort()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.GetEnumerator">
+            <summary>Sets the shim of BinaryHeap`1.GetEnumerator()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.IsReadOnlyGet">
+            <summary>Sets the shim of BinaryHeap`1.get_IsReadOnly()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.ParentInt32">
+            <summary>Sets the shim of BinaryHeap`1.Parent(Int32 index)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.Peek">
+            <summary>Sets the shim of BinaryHeap`1.Peek()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.Remove">
+            <summary>Sets the shim of BinaryHeap`1.Remove()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.RemoveT0">
+            <summary>Sets the shim of BinaryHeap`1.Remove(!0 item)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.SystemCollectionsIEnumerableGetEnumerator">
+            <summary>Sets the shim of BinaryHeap`1.System.Collections.IEnumerable.GetEnumerator()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.UpHeap">
+            <summary>Sets the shim of BinaryHeap`1.UpHeap()</summary>
+        </member>
+        <member name="T:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.AddT0">
+            <summary>Sets the shim of BinaryHeap`1.Add(!0 item)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.CapacityGet">
+            <summary>Sets the shim of BinaryHeap`1.get_Capacity()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.CapacitySetInt32">
+            <summary>Sets the shim of BinaryHeap`1.set_Capacity(Int32 value)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.Clear">
+            <summary>Sets the shim of BinaryHeap`1.Clear()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.ContainsT0">
+            <summary>Sets the shim of BinaryHeap`1.Contains(!0 item)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.Copy">
+            <summary>Sets the shim of BinaryHeap`1.Copy()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.CopyToT0ArrayInt32">
+            <summary>Sets the shim of BinaryHeap`1.CopyTo(!0[] array, Int32 arrayIndex)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.CountGet">
+            <summary>Sets the shim of BinaryHeap`1.get_Count()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.DownHeap">
+            <summary>Sets the shim of BinaryHeap`1.DownHeap()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.EnsureSort">
+            <summary>Sets the shim of BinaryHeap`1.EnsureSort()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.GetEnumerator">
+            <summary>Sets the shim of BinaryHeap`1.GetEnumerator()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.IsReadOnlyGet">
+            <summary>Sets the shim of BinaryHeap`1.get_IsReadOnly()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.Peek">
+            <summary>Sets the shim of BinaryHeap`1.Peek()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.Remove">
+            <summary>Sets the shim of BinaryHeap`1.Remove()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.RemoveT0">
+            <summary>Sets the shim of BinaryHeap`1.Remove(!0 item)</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.SystemCollectionsIEnumerableGetEnumerator">
+            <summary>Sets the shim of BinaryHeap`1.System.Collections.IEnumerable.GetEnumerator()</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.ShimBinaryHeap`1.AllInstances.UpHeap">
+            <summary>Sets the shim of BinaryHeap`1.UpHeap()</summary>
+        </member>
+        <member name="T:DataStructures.Fakes.StubBinaryHeap`1">
+            <summary>Stub type of DataStructures.BinaryHeap`1</summary>
+        </member>
+        <member name="M:DataStructures.Fakes.StubBinaryHeap`1.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:DataStructures.Fakes.StubBinaryHeap`1.InitializeStub">
+            <summary>Initializes a new instance of type StubBinaryHeap</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.StubBinaryHeap`1.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.StubBinaryHeap`1.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DataStructures.Fakes.StubBinaryHeap`1.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Model.Search.Fakes.ShimAState">
+            <summary>Shim type of Model.Search.AState</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.ShimAState.#ctor(Model.Search.AState)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.ShimAState.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.ShimAState.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.ShimAState.Bind(System.IComparable{Model.Search.AState})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.CompareToAState">
+            <summary>Sets the shim of AState.CompareTo(AState state)</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.ConstructorAState">
+            <summary>Sets the shim of AState.AState(AState parentState)</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.EqualsAState">
+            <summary>Sets the shim of AState.Equals(AState state)</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.GetCost">
+            <summary>Sets the shim of AState.GetCost()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.GetG">
+            <summary>Sets the shim of AState.GetG()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.GetParentState">
+            <summary>Sets the shim of AState.GetParentState()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.GetState">
+            <summary>Sets the shim of AState.GetState()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.SetCostDouble">
+            <summary>Sets the shim of AState.SetCost(Double cost)</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.SetGDouble">
+            <summary>Sets the shim of AState.SetG(Double g)</summary>
+        </member>
+        <member name="T:Model.Search.Fakes.ShimAState.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.AllInstances.CompareToAState">
+            <summary>Sets the shim of AState.CompareTo(AState state)</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.AllInstances.EqualsAState">
+            <summary>Sets the shim of AState.Equals(AState state)</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.AllInstances.GetCost">
+            <summary>Sets the shim of AState.GetCost()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.AllInstances.GetG">
+            <summary>Sets the shim of AState.GetG()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.AllInstances.GetParentState">
+            <summary>Sets the shim of AState.GetParentState()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.AllInstances.GetState">
+            <summary>Sets the shim of AState.GetState()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.AllInstances.SetCostDouble">
+            <summary>Sets the shim of AState.SetCost(Double cost)</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimAState.AllInstances.SetGDouble">
+            <summary>Sets the shim of AState.SetG(Double g)</summary>
+        </member>
+        <member name="T:Model.Search.Fakes.ShimSolution">
+            <summary>Shim type of Model.Search.Solution</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.ShimSolution.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.ShimSolution.#ctor(Model.Search.Solution)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.ShimSolution.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.ShimSolution.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.AddStateAState">
+            <summary>Sets the shim of Solution.AddState(AState state)</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.Constructor">
+            <summary>Sets the shim of Solution.Solution()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.GetSolutionPath">
+            <summary>Sets the shim of Solution.GetSolutionPath()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.GetSolutionSteps">
+            <summary>Sets the shim of Solution.GetSolutionSteps()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.IsSolutionExists">
+            <summary>Sets the shim of Solution.IsSolutionExists()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.RevereseSolution">
+            <summary>Sets the shim of Solution.RevereseSolution()</summary>
+        </member>
+        <member name="T:Model.Search.Fakes.ShimSolution.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.AllInstances.AddStateAState">
+            <summary>Sets the shim of Solution.AddState(AState state)</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.AllInstances.GetSolutionPath">
+            <summary>Sets the shim of Solution.GetSolutionPath()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.AllInstances.GetSolutionSteps">
+            <summary>Sets the shim of Solution.GetSolutionSteps()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.AllInstances.IsSolutionExists">
+            <summary>Sets the shim of Solution.IsSolutionExists()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.ShimSolution.AllInstances.RevereseSolution">
+            <summary>Sets the shim of Solution.RevereseSolution()</summary>
+        </member>
+        <member name="T:Model.Search.Fakes.StubAState">
+            <summary>Stub type of Model.Search.AState</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubAState.#ctor(Model.Search.AState)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubAState.InitializeStub">
+            <summary>Initializes a new instance of type StubAState</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubAState.PrintState">
+            <summary>Sets the stub of AState.PrintState()</summary>
+        </member>
+        <member name="F:Model.Search.Fakes.StubAState.PrintState01">
+            <summary>Sets the stub of AState.PrintState()</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.StubAState.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.StubAState.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.StubAState.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Model.Search.Fakes.StubISearchable">
+            <summary>Stub type of Model.Search.ISearchable</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubISearchable.#ctor">
+            <summary>Initializes a new instance of type StubISearchable</summary>
+        </member>
+        <member name="F:Model.Search.Fakes.StubISearchable.GetAllSuccessorsAState">
+            <summary>Sets the stub of ISearchable.GetAllSuccessors(AState state)</summary>
+        </member>
+        <member name="F:Model.Search.Fakes.StubISearchable.GetGoalState">
+            <summary>Sets the stub of ISearchable.GetGoalState()</summary>
+        </member>
+        <member name="F:Model.Search.Fakes.StubISearchable.GetStartState">
+            <summary>Sets the stub of ISearchable.GetStartState()</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubISearchable.ca4::Model#Search#ISearchable#GetAllSuccessors(Model.Search.AState)">
+            <summary>Sets the stub of ISearchable.GetAllSuccessors(AState state)</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubISearchable.ca4::Model#Search#ISearchable#GetGoalState">
+            <summary>Sets the stub of ISearchable.GetGoalState()</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubISearchable.ca4::Model#Search#ISearchable#GetStartState">
+            <summary>Sets the stub of ISearchable.GetStartState()</summary>
+        </member>
+        <member name="T:Model.Search.Fakes.StubISearchingAlgorithm">
+            <summary>Stub type of Model.Search.ISearchingAlgorithm</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubISearchingAlgorithm.#ctor">
+            <summary>Initializes a new instance of type StubISearchingAlgorithm</summary>
+        </member>
+        <member name="F:Model.Search.Fakes.StubISearchingAlgorithm.GetNumberOfGeneratedNodes">
+            <summary>Sets the stub of ISearchingAlgorithm.GetNumberOfGeneratedNodes()</summary>
+        </member>
+        <member name="F:Model.Search.Fakes.StubISearchingAlgorithm.GetSolvingTimeMiliseconds">
+            <summary>Sets the stub of ISearchingAlgorithm.GetSolvingTimeMiliseconds()</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubISearchingAlgorithm.ca4::Model#Search#ISearchingAlgorithm#GetNumberOfGeneratedNodes">
+            <summary>Sets the stub of ISearchingAlgorithm.GetNumberOfGeneratedNodes()</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubISearchingAlgorithm.ca4::Model#Search#ISearchingAlgorithm#GetSolvingTimeMiliseconds">
+            <summary>Sets the stub of ISearchingAlgorithm.GetSolvingTimeMiliseconds()</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubISearchingAlgorithm.ca4::Model#Search#ISearchingAlgorithm#Solve(Model.Search.ISearchable)">
+            <summary>Sets the stub of ISearchingAlgorithm.Solve(ISearchable searchDomain)</summary>
+        </member>
+        <member name="F:Model.Search.Fakes.StubISearchingAlgorithm.SolveISearchable">
+            <summary>Sets the stub of ISearchingAlgorithm.Solve(ISearchable searchDomain)</summary>
+        </member>
+        <member name="T:Model.Search.Fakes.StubSolution">
+            <summary>Stub type of Model.Search.Solution</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubSolution.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Model.Search.Fakes.StubSolution.InitializeStub">
+            <summary>Initializes a new instance of type StubSolution</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.StubSolution.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.StubSolution.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Model.Search.Fakes.StubSolution.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>
