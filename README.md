@@ -1,11 +1,6 @@
 "#Maze-Genrator" 
-
+## MVP -Architecture   
 https://en.wikipedia.org/wiki/Maze_generation_algorithm
-
-![output](https://github.com/naor2205/Maze-Genrator/blob/master/MVP.PNG)
-![output](https://github.com/naor2205/Maze-Genrator/blob/master/1.PNG)
-![output](https://github.com/naor2205/Maze-Genrator/blob/master/6.png)
-
 
 
 ## Settings:
@@ -20,6 +15,9 @@ https://en.wikipedia.org/wiki/Maze_generation_algorithm
  -5 is Solution Supports Diagonal (for the solver)
  
  
+![output](https://github.com/naor2205/Maze-Genrator/blob/master/MVP.PNG)
+![output](https://github.com/naor2205/Maze-Genrator/blob/master/1.PNG)
+![output](https://github.com/naor2205/Maze-Genrator/blob/master/6.png)
 ![output](https://github.com/naor2205/Maze-Genrator/blob/master/2.PNG)
 ![output](https://github.com/naor2205/Maze-Genrator/blob/master/3.PNG)
 ![output](https://github.com/naor2205/Maze-Genrator/blob/master/4.PNG)
